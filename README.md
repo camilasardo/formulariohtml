@@ -11,16 +11,26 @@
     <h3>
       Formulário de cadastro.
      </h3>
-    </br>
     <form>
-      <label>
+      <label for"nome">
         Nome
       </label>
     <input id="nome" type="text">
-      <label>
+      </br>
+      <label for"sobrenome">
         Sobrenome
       </label>
     <input id="sobrenome" type="text">
-    </form>
+       </br>
+       <label for "cpf">
+        CPF
+      </label>
+    <input id="cpf" type="number">
+      </br>
+      <label for"nacionalidade">
+      <select id="nacionalidade">
+          <option id=">Brasileiro</option>
+      </select>
+      </form>
   </body>
 </html>
