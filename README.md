@@ -16,11 +16,11 @@
       <label>
         Nome
       </label>
-    <input type="text">
+    <input id="nome" type="text">
       <label>
         Sobrenome
       </label>
-    <input type="text">
+    <input id="sobrenome" type="text">
     </form>
   </body>
 </html>
