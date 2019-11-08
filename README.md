@@ -29,7 +29,8 @@
       </br>
       <label for"nacionalidade">
       <select id="nacionalidade">
-          <option id=">Brasileiro</option>
+          <option value="brasileiro">Brasileiro</option>
+          <option value="estrangeiro">Estrangeiro</option>
       </select>
       </form>
   </body>
